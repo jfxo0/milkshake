@@ -1,9 +1,9 @@
 # milkshake
 
-##  Beschrijving
-een simpele html & css pagina gemaakt voor een oefenopdracht voor programmeren 1
+##  description
+a simple html & css one page for a practice design layout
 
-##  Gebruikte technieken
+##  used
 - html
 - CSS
 
